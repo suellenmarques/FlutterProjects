@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+                android:id="@+id/nav_scheduling"
+                android:icon="@drawable/ic_menu_scheduling"
+                android:title="@string/menu_scheduling"/>
+        <item
+                android:id="@+id/nav_carwash"
+                android:icon="@drawable/ic_menu_carwash"
+                android:title="@string/menu_carwash"/>
+        <item
+                android:id="@+id/nav_car"
+                android:icon="@drawable/ic_menu_cars"
+                android:title="@string/menu_cars"/>
+    </group>
+
+    <item android:title="Colaboração">
+        <menu>
+            <item
+                    android:id="@+id/nav_tutorials"
+                    android:icon="@drawable/ic_menu_tutorials"
+                    android:title="@string/menu_tutorials"/>
+        </menu>
+    </item>
+
+</menu>

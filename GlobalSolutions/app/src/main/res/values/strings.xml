@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">GARAGE</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_app">App Garage</string>
+    <string name="menu_scheduling">Agendamentos</string>
+    <string name="menu_carwash">Lava-Rápido parceiro</string>
+    <string name="menu_cars">Veículo</string>
+    <string name="menu_tutorials">Tutoriais</string>
+    <string name="scheduling_title">My Schedules</string>
+    <string name="car_title">Cars</string>
+
+    <string name="hello_fragmentTutorial">Olá motorista!</string>
+</resources>
